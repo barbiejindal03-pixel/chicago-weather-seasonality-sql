@@ -50,5 +50,31 @@ The objective is to understand how weather conditions vary across seasons and id
 - **Coldest month (average temperature):** January (−4.9 °C)
 - **Most favorable season for outdoor activity:** Fall, particularly September, due to moderate temperatures and relatively low precipitation
 
+# Screenshots
+Each result is supported by query output screenshots from DBeaver.
+
+# Maximum Summer Temperature (TMAX)
+
+![Maximum Summer Temperature](screenshots/max_summer_temperature.png)
+
+# Minimum Winter Temperature (TMIN)
+
+![Minimum Winter Temperature](screenshots/min_temperature.png)
+
+# Highest Single-Day Precipitation (PRCP)
+
+![Highest Precipitation Day](screenshots/highest_precipitation_day.png)
+
+# Month with Highest Average Temperature (TAVG)
+
+![Month with Highest Average Temperature](screenshots/month with highesht avg temperature.png)
+
+# Month with Lowest Average Temperature (TAVG)
+
+![Month with Lowest Average Temperature](screenshots/month with lowest avg temperature.png)
+
+# Seasonal Average Temperature & Precipitation
+
+![Seasonal Average Temperature and Precipitation](screenshots/seasonal_average_temperature.png)
 
 
