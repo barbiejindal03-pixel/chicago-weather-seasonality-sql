@@ -67,11 +67,11 @@ Each result is supported by query output screenshots from DBeaver.
 
 # Month with Highest Average Temperature (TAVG)
 
-![Month with Highest Average Temperature](screenshots/month with highesht avg temperature.png)
+![Month with Highest Average Temperature](screenshots/month_with_highest_avg_temperature.png)
 
 # Month with Lowest Average Temperature (TAVG)
 
-![Month with Lowest Average Temperature](screenshots/month with lowest avg temperature.png)
+![Month with Lowest Average Temperature](screenshots/month_with_lowest_avg_temperature.png)
 
 # Seasonal Average Temperature & Precipitation
 
