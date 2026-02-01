@@ -23,10 +23,10 @@ The objective is to understand how weather conditions vary across seasons and id
 - **Units:** Temperature (°C), Precipitation (mm)
 - **Time period** 2025-01-01 to 2025-12-31
 - **Key Variables:**  
-  - 'TMAX' – Maximum daily temperature  
-  - 'TMIN' – Minimum daily temperature  
-  - 'TAVG' – Average daily temperature  
-  - 'PRCP' – Daily precipitation
+  1.'TMAX' – Maximum daily temperature  
+  2.'TMIN' – Minimum daily temperature  
+  3.'TAVG' – Average daily temperature  
+  4.'PRCP' – Daily precipitation
 
 # Key Findings
 - Summer months, particularly, **June** recorded the highest daily maximum temperatures, approximately 35° celcius on multiple days. 
@@ -49,4 +49,6 @@ The objective is to understand how weather conditions vary across seasons and id
 - **Warmest month (average temperature):** July (25.26 °C)
 - **Coldest month (average temperature):** January (−4.9 °C)
 - **Most favorable season for outdoor activity:** Fall, particularly September, due to moderate temperatures and relatively low precipitation
+
+
 
