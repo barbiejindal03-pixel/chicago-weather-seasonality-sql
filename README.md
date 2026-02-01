@@ -42,3 +42,11 @@ The objective is to understand how weather conditions vary across seasons and id
 - Exploratory and descriptive analysis of real-world climate data
 - Analytical interpretation of temperature and precipitation patterns
 
+# Results Summary 
+- **Maximum summer temperature:** 35 °C, observed on multiple days across June, July, and August
+- **Minimum winter temperature:** −22.1 °C, recorded on January 21, 2025
+- **Highest single-day rainfall:** 47.2 mm on June 18, 2025
+- **Warmest month (average temperature):** July (25.26 °C)
+- **Coldest month (average temperature):** January (−4.9 °C)
+- **Most favorable season for outdoor activity:** Fall, particularly September, due to moderate temperatures and relatively low precipitation
+
