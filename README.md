@@ -53,27 +53,27 @@ The objective is to understand how weather conditions vary across seasons and id
 # Screenshots
 Each result is supported by query output screenshots from DBeaver.
 
-# Maximum Summer Temperature (TMAX)
+**Maximum Summer Temperature (TMAX)**
 
 ![Maximum Summer Temperature](screenshots/max_summer_temperature.png)
 
-# Minimum Winter Temperature (TMIN)
+**Minimum Winter Temperature (TMIN)**
 
 ![Minimum Winter Temperature](screenshots/min_temperature.png)
 
-# Highest Single-Day Precipitation (PRCP)
+**Highest Single-Day Precipitation (PRCP)**
 
 ![Highest Precipitation Day](screenshots/highest_precipitation_day.png)
 
-# Month with Highest Average Temperature (TAVG)
+**Month with Highest Average Temperature (TAVG)**
 
 ![Month with Highest Average Temperature](screenshots/month_with_highest_avg_temperature.png)
 
-# Month with Lowest Average Temperature (TAVG)
+**Month with Lowest Average Temperature (TAVG)**
 
 ![Month with Lowest Average Temperature](screenshots/month_with_lowest_avg_temperature.png)
 
-# Seasonal Average Temperature & Precipitation
+**Seasonal Average Temperature & Precipitation**
 
 ![Seasonal Average Temperature and Precipitation](screenshots/seasonal_average_temperature.png)
 
