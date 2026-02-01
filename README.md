@@ -33,6 +33,7 @@ The objective is to understand how weather conditions vary across seasons and id
 - Winter showed extreme cold conditions, with the lowest temperatures,least dropping to —22.1° celcius occurring in **January**.
 - The highest precipitation event occurred on a single summer day, indicating episodic heavy rainfall during the summer season.
 - Among the fall months, September showed moderate temperatures and lower precipitation levels, suggesting optimal weather conditions for outdoor activities.
+- Based on a combined evaluation of average temperature and precipitation, **Fall emerged as the most favorable season for outdoor activities**. While summer recorded the highest temperatures, it also exhibited significantly higher precipitation levels. Fall, particularly September, offered a more balanced climate with moderate temperatures and comparatively lower rainfall, making it the most suitable season for outdoor conditions.
 
 # Skills Demonstrated
 - Data acquisition from public government sources (NOAA Climate Data Online)
