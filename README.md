@@ -78,4 +78,11 @@ Each result is supported by query output screenshots from DBeaver.
 
 ![Seasonal Average Temperature and Precipitation](screenshots/seasonal_average_temperature.png)
 
+# SQL Analysis
+**KEY NOTE:** All SQL queries used for data cleaning, aggregation, and seasonal analysis are available in the file below:
+
+- [`analysis.sql`](analysis.sql)
+
+
+
 
